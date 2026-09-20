@@ -1,6 +1,6 @@
 # Lab 01 — The price of one request
 
-**Student:** Arsen Tursbekov
+**Student:** Tursbekov Darkhan
 **Course:** LLMs, Agentic AI and Reinforcement Learning — Narxoz University
 **Date:** 2026-09-20
 
